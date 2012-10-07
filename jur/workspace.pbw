@@ -1,0 +1,9 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "PBSRC\\app_juradmin.pbt";
+ 1 "PBSRC\\app_juroffice.pbt";
+@end;
+DefaultTarget "PBSRC\\app_juroffice.pbt";
+DefaultRemoteTarget "PBSRC\\app_juroffice.pbt";
